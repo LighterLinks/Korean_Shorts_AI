@@ -12,6 +12,7 @@
 
 ### 다음과 같은 동영상이 생성됩니다.
 
+[rendered_video (2).webm](https://github.com/user-attachments/assets/63cd5b83-aa44-4083-a946-bdbeccf57673)
 
 
 ### 스타를 눌러주시면 감사하겠습니다.
