@@ -49,7 +49,7 @@ sudo apt install imagemagick ffmpeg
 만약 프로그램 실행 중 `moviepy` 라이브러리가 `ImageMagick` 바이너리를 찾을 수 없다는 오류가 발생하면,  
 다음과 같이 `ImageMagick`의 정책 파일을 수정해야 합니다.
 
-`/etc/ImageMagick-6/policy.xml` 파일에서 다음 줄을 삭제하세요:
+`/etc/ImageMagick-6/policy.xml` 파일에서 다음 줄을 삭제하세요. 파일의 가장 아래에 있습니다 :
 ```xml
 <policy domain="path" rights="none" pattern="@*" />
 ```
