@@ -13,6 +13,10 @@
 ### 예시 영상
 
 
+https://github.com/user-attachments/assets/a9dadb1e-d533-43dc-84e1-53b699f96531
+
+
+
 ---
 
 ### ⭐️ 스타를 눌러주세요!
